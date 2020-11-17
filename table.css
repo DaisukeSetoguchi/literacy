@@ -1,0 +1,21 @@
+
+table{
+    border-collapse: collapse;
+    border:2px dashed orange;/*外枠*/
+    
+
+}
+
+table th, table td{
+    border-style:dashed dashed;/*線種*/
+    border-width:5px;/*線の太さ*/
+    border-color:  red; /* 線色 */
+    
+
+
+
+}
+
+th {
+    background-color: orange ;
+    }
